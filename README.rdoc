@@ -1,0 +1,10 @@
+== README
+
+Small application to test SAML-based SSO, specifically to test SAML Service Providers (SP).
+In essence this application is a SAML Identity Provider (IdP) with hard-coded private key and certificate.
+
+Requirements:
+
+* Ruby version 2.1.2 or later.
+* Bundler
+
